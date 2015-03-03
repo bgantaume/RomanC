@@ -11,7 +11,7 @@ int char_decode(char in) {
     	if (lettres[i] == in) {
     		return chiffres[i];
     	}
-	}
+}
 }
 
 
